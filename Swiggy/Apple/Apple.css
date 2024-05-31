@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    /* background-color: rgb(145, 42, 56); */
+}
+.Wrapper{
+    height: 100%;
+    width: 100%;
+    background-color: #EEEEEE;
+}
+.nav{
+    height: 50px;
+    width: 100%;
+    /* background-color: brown;
+    */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.nav a{
+    margin: 0 1vw;
+    text-decoration: none;
+    color: black;
+}
+.nav i{
+    margin: 0 1vw;
+}
+
